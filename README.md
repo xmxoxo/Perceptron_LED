@@ -40,7 +40,7 @@ input ----|  的多  |---- output
 先建个项目库吧： https://github.com/xmxoxo/Perceptron_LED.git
 
 
-###资料分析 
+### 资料分析 
 
 7段数码管LED如下图：
 ```
